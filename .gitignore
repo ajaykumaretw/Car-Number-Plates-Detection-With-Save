@@ -1,0 +1,8 @@
+.env
+.venv
+mchatbot/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
